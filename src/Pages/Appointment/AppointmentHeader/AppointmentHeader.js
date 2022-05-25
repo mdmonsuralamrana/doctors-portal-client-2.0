@@ -20,3 +20,4 @@ const AppointmentHeader = ({ date, setDate }) => {
 };
 
 export default AppointmentHeader;
+
